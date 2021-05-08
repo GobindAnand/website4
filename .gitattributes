@@ -1,2 +1,75 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="index.css">
+  <script src="https://kit.fontawesome.com/0266c6d022.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body style="color:white">
+  <div class="top-container">
+<style>
+body {
+font-family: 'Roboto', sans-serif;
+background-image: url('data:image/jpeg;base64,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');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
+     <h1>I'm Gobind Anand.</h1>
+    <h2><u>a</u> <u>budding</u> <u>programmer</u></h2>
+    <img class="bottom-cloud" src="">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/profile_pic.png" alt="stock-image">
+      <h2 class="hello">Hello.</h2>
+      <p style="color:white">I am a high school student. I have a very keen inclination towards programming. I also love to debate and space research😍.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="c" src="images/gear.png" alt="c++">
+        <h3>HTML, CSS and Powerpoint</h3>
+        <p class="code1"style="color:white">I have a basic understanding of HTML and CSS and I try to do projects which can help me enhancing these skills. I am also a Powerpoint expert and a pitch expert.</p>
+      </div>
+      <div class="skill-row">
+        <img class="ht" src="images/search.png" alt="html">
+        <h3>Would Learn</h3>
+        <p class="code2">I am very keen towards learning new technologies. Now a days, I am very fascinated by Flutter and Python. I would definitely learn about them in future.</p>
+      </div>
+    </div>
+    <div class="work">
+      <h2>My Works.</h2>
+      <p class="code2 skill-row">  
+I am a good orator and researcher (I have partipated in 20+ debates, MUNs and group discussions and I have always won an award). My team was also second in the national level INSSDC (space settlement development competition). I also pursue space law as a hobby.      
+</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2 class="git">Get In Touch</h2>
+    <h3>Hope to hear from you soon!</h3>
+    <p>If you find my portfolio decent, then head over to my profiles and let me know 😀 </p>
+  </div>
+  <div class="butt">
+    <a href="#" class="btn">CONTACT ME</a>
+  </div>
+  </div>
+
+  <div class="bottom-container">
+    <button type="button" class="btn" name="button">Twitter <i class="fab fa-twitter"></i></button>
+    <button type="button" class="btn" name="button">Facebook <i class="fab fa-facebook"></i></button>
+    <button type="button" class="btn" name="button">Github <i class="fab fa-github"></i></button>
+
+    <br>
+
+    <p class="foot">© 2020 XYZ.</p>
+  </div>
+
+</html>
